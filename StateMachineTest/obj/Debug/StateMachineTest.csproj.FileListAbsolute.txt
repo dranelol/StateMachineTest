@@ -1,6 +1,0 @@
-c:\users\mbw5861\documents\visual studio 2012\Projects\StateMachineTest\StateMachineTest\bin\Debug\StateMachineTest.exe.config
-c:\users\mbw5861\documents\visual studio 2012\Projects\StateMachineTest\StateMachineTest\obj\Debug\StateMachineTest.csprojResolveAssemblyReference.cache
-c:\users\mbw5861\documents\visual studio 2012\Projects\StateMachineTest\StateMachineTest\bin\Debug\StateMachineTest.exe
-c:\users\mbw5861\documents\visual studio 2012\Projects\StateMachineTest\StateMachineTest\bin\Debug\StateMachineTest.pdb
-c:\users\mbw5861\documents\visual studio 2012\Projects\StateMachineTest\StateMachineTest\obj\Debug\StateMachineTest.exe
-c:\users\mbw5861\documents\visual studio 2012\Projects\StateMachineTest\StateMachineTest\obj\Debug\StateMachineTest.pdb
